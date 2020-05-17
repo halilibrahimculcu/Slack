@@ -5,7 +5,7 @@ public class Emoji {
         System.out.println("YENI EMOJI CLASS I");
 
 
-
+        // this message must be seem on board
 
 
 
